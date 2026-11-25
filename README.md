@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**GiovanaResnauer/GiovanaResnauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Oii, eu sou a Giovana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de Sistemas de Informação.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,php" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanaResnauer&show_icons=true&theme=dark&title_color=bb9af7&icon_color=bb9af7&locale=pt-br&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaResnauer&layout=compact&theme=dark&title_color=bb9af7&hide_border=true&locale=pt-br" />
+
+</div>
+
